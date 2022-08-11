@@ -1,2 +1,2 @@
-# Rubies-School-App
+# RubiesTech
 Rubies School App
